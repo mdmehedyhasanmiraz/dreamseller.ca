@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import WhatsAppButton from "@/components/WhatsAppButton";
-import ogImage from "@/public/opengraph-image.png";
+import ogImage from "/opengraph-image.png";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
