@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1",
+    "name": "Lt. Col. Mohammad Ahsanuth Takbeem Chowdhury (retd.)",
+    "position": "Chief Executive Officer",
+    "photo_url": "/images/member-1.webp",
+    "bio": "Lt. Col. Mohammad Ahsanuth Takbeem Chowdhury (retd.) is the Chief Executive Officer of DreamSellers. A former military officer and professional civil engineer, he brings over 15 years of experience in real estate development and property management. Throughout his career, he has successfully led multiple residential and commercial projects across Bangladesh. His expertise spans technical and combat engineering, including specialized knowledge in handling mines and explosives. Known for his ability to manage multiple high-impact projects simultaneously, he combines sharp analytical skills with a strategic mindset to drive operational efficiency and business growth. His leadership has played a pivotal role in positioning DreamSellers as a trusted name in the industry.",
+    "email": "ceo@dreamseller.ca",
+    "phone": "+88 01711-317531",
+    "linkedin_url": "https://linkedin.com/",
+    "twitter_url": "https://twitter.com/",
+    "order_index": 1,
+    "is_active": true
+  },
+  {
+    "id": "2",
+    "name": "Lt. Col. Mohammad Rezaul Karim (retd.)",
+    "position": "Managing Director",
+    "photo_url": "/images/member-1.webp",
+    "bio": "Lt. Colonel (Retd.) Mohammad Rezaul Karim, SPP, psc, Engrs is a seasoned expert in project management and construction engineering, with over 21 years of leadership experience in the Corps of Engineers, Bangladesh Army. He commanded an Engineer Battalion and led major national infrastructure projects including the Cox's Bazar–Teknaf Marine Drive Road, the Dhaka Elevated Expressway, and several complex multi-agency development initiatives. His expertise spans the full project lifecycle—planning, budgeting, execution, and risk mitigation under challenging conditions.\n\nReza has also served as an instructor at the Military Institute of Science and Technology (MIST) and represented Bangladesh internationally through the UN Peacekeeping Mission in Liberia (UNMIL) and as Commander of the OKP Construction Contingent in Kuwait. \n\nFollowing his military retirement, he transitioned to research and innovation in construction engineering. He is currently pursuing a Ph.D. in Construction Engineering and Management at the University of Alberta, Canada. His work focuses on AI-driven project planning, BIM integration, sustainable construction, and digital twins—leveraging reinforcement learning to automate sequencing, enhance safety, and boost productivity.\n\nReza collaborates with PCL Industrial Management Inc., one of Canada's top construction firms, applying simulation and AI to real-world challenges in construction planning and automation. With a rare blend of command-level leadership, hands-on infrastructure delivery, and cutting-edge academic insight, he brings a systems-thinking approach to smart construction and data-driven project management.",
+    "email": "md@dreamseller.ca",
+    "phone": "+88 01978-008638",
+    "linkedin_url": "https://linkedin.com/",
+    "twitter_url": "https://twitter.com/",
+    "order_index": 2,
+    "is_active": true
+  },
+  {
+    "id": "3",
+    "name": "Lt. Col. Ahamed Hossain Sohel (retd.)",
+    "position": "Chief Operating Officer",
+    "photo_url": "/images/member-1.webp",
+    "bio": "Lt. Col. Ahamed Hossain Sohel (retd.) is the Chief Operating Officer of DreamSellers. A former military officer and professional civil engineer, he brings over 15 years of experience in real estate development and property management. Throughout his career, he has successfully led multiple residential and commercial projects across Bangladesh. His expertise spans technical and combat engineering, including specialized knowledge in handling mines and explosives. Known for his ability to manage multiple high-impact projects simultaneously, he combines sharp analytical skills with a strategic mindset to drive operational efficiency and business growth. His leadership has played a pivotal role in positioning DreamSellers as a trusted name in the industry.",
+    "email": "captsohel6372@yahoo.com",
+    "phone": "+88 01712-132517",
+    "linkedin_url": "https://linkedin.com/",
+    "twitter_url": "https://twitter.com/",
+    "order_index": 3,
+    "is_active": true
+  },
+  {
+    "id": "4",
+    "name": "Adnan Sabir",
+    "position": "Head of Sales & Marketing",
+    "photo_url": "/images/member-1.webp",
+    "bio": "Adnan Sabir leads our sales and marketing strategies, connecting clients with their dream properties. With over 10 years of experience in real estate marketing, he has developed innovative campaigns that have generated significant sales revenue. His expertise includes digital marketing, customer relationship management, and market analysis. Adnan has pioneered several successful marketing initiatives, including virtual property tours and AI-powered customer matching systems.",
+    "email": "adnan@dreamseller.ca",
+    "phone": "+88 01711-503844",
+    "linkedin_url": "https://linkedin.com/",
+    "twitter_url": "https://twitter.com/",
+    "order_index": 4,
+    "is_active": true
+  },
+  {
+    "id": "5",
+    "name": "Mohammad Mahin Uddin",
+    "position": "Head of Communications",
+    "photo_url": "/images/member-1.webp",
+    "bio": "Mohammad Mahin Uddin has been working as a broadcast journalist since 2006, contributing to several leading television news channels in Bangladesh. He currently serves as a News Producer at DBC News. With over 15 years of experience in the media industry, he brings deep editorial insight and production expertise to his role. He holds a Graduate Diploma in Management from Oxford College of Business, Australia, along with a Bachelor's and Master's degree in Business Management from Jagannath University, Bangladesh.",
+    "email": "mahin@dreamseller.ca",
+    "phone": "+88 01711-371042",
+    "linkedin_url": "https://linkedin.com/",
+    "twitter_url": "https://twitter.com/",
+    "order_index": 5,
+    "is_active": true
+  }
+] 
